@@ -5,4 +5,4 @@ def my_fib(n):
     elif n == 1:
         return 1
     else:
-        return fib(n-2) + fib(n-1)
+        return my_fib(n-2) + my_fib(n-1)
