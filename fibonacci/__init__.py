@@ -1,1 +1,1 @@
-from .fibonacci import fib
+from .my_fibonacci import my_fib
